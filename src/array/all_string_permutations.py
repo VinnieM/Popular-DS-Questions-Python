@@ -1,10 +1,10 @@
 from typing import List
 
 
-class StringPermutations:
+class StringPermutation:
     def solution_1(self, string: List[str], low: int, high: int):
         if low == high:
-            return print("".join(string))
+            print("".join(string))
         else:
             for each_element in range(low, high):
                 string[low], string[each_element] = string[each_element], string[low]
