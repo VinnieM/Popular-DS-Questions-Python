@@ -13,6 +13,8 @@ class TestPalindromeNumber:
             (10, False),
             (11, True),
             (12321, True),
+            (None, False),
+            ("ABC", False),
         ],
     )
     def test_solution_1(self, input_, expected):

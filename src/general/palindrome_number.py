@@ -1,6 +1,6 @@
 class PalindromeNumber:
     def solution_1(self, x: int) -> bool:
-        if x < 0 or (x % 10 == 0 and x != 0):
+        if not isinstance(x, int) or x < 0 or (x % 10 == 0 and x != 0):
             return False
 
         reverted_number: int = 0
