@@ -16,5 +16,11 @@ poetry run pytest test
 2. Min and Max element(https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/array/min_and_max.py).
 3. Print all permutations of a given string.(https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/array/all_string_permutations.py).
 
+### Sort
+1. Bubble Sort. (https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/sort/bubble_sort.py)
+
 ### Matrix
 1. Transpose a matrix (https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/matrix/transpose.py).
+
+### General Questions
+1. Palindrome Number. (https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/general/palindrome_number.py)
