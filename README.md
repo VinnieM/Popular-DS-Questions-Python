@@ -26,3 +26,4 @@ poetry run pytest test
 
 ### General Questions
 1. [Palindrome Number](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/general/palindrome_number.py). [Test cases](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/test/general/test_palindrome_number.py)
+2. [Reverse Integer](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/general/reverse_integer.py). [Test cases](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/test/general/test_reverse_integer.py)
