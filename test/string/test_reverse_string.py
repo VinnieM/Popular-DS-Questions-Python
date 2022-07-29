@@ -1,6 +1,6 @@
 import pytest
 
-from src.array.reverse_array import ReverseArray
+from src.string.reverse_array import ReverseArray
 
 
 class TestReverseArray:
