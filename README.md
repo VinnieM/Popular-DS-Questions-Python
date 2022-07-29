@@ -16,6 +16,7 @@ poetry run pytest test
 2. [Min and Max element](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/array/min_and_max.py). [Test cases](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/test/array/test_min_and_max.py)
 3. [Print all permutations of a given string](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/array/all_string_permutations.py).
 4. [Check if the brackets and balanced](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/array/balanced_brackets.py). [Test cases](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/test/array/test_balanced_brackets.py)
+5. [Two Sums](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/array/two_sums.py). [Test cases](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/test/array/test_two_sums.py)
 
 ### Sort
 1. [Bubble Sort](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/sort/bubble_sort.py). [Test cases](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/test/sort/test_bubble_sort.py)
