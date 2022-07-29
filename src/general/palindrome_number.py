@@ -13,3 +13,15 @@ class PalindromeNumber:
             x //= 10
 
         return x == reverted_number or x == reverted_number // 10
+
+    def temp(self):
+        list_ = [1, 2, 3, 4, 5, 5]
+        x = {}
+        for each_number in list_:
+            x[each_number] = each_number
+
+        print(x.keys())
+
+if __name__ == '__main__':
+    t = PalindromeNumber()
+    t.temp()
