@@ -19,7 +19,7 @@ poetry run pytest test
 ### String
 1. [Reverse an array/string](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/string/reverse_string.py). [Test cases](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/test/string/test_reverse_string.py)
 2. [Print all permutations of a given string](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/string/all_string_permutations.py).
-3. [Longest Subarray](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/string/length_of_longest_subarray.py). [Test cases](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/test/string/test_longest_subarray.py)
+3. [Longest Subarray Length](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/string/length_of_longest_subarray.py). [Test cases](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/test/string/test_longest_subarray.py)
 
 ### Sort
 1. [Bubble Sort](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/src/sort/bubble_sort.py). [Test cases](https://github.com/VinnieM/Popular-DS-Questions-Python/blob/main/test/sort/test_bubble_sort.py)
