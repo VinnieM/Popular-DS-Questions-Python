@@ -7,5 +7,5 @@ class TwoSums:
         for i, each_number in enumerate(nums):
             difference = target - each_number
             if difference in dict_:
-                return [dict[difference], i]
+                return [dict_[difference], i]
             dict_[each_number] = i
